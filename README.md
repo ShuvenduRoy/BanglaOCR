@@ -13,6 +13,9 @@ This is one sample training picture
 
 ![](img/1.png)
 
-# Impotent Details
+# Important Details
 This model is trained on fairly small dataset. It had 1600 train image per class. With more image on hand
 and with deeper model the accuracy can be improved farther
+
+## Contact
+email: shuvendu1roy@gmail.com
